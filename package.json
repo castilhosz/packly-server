@@ -4,7 +4,8 @@
   "description": "The server repo of the Packly app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/arthrc/packly-server/issues"
   },
-  "homepage": "https://github.com/arthrc/packly-server#readme"
+  "homepage": "https://github.com/arthrc/packly-server#readme",
+  "dependencies": {
+    "correios-brasil": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
