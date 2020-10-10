@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/arthrc/packly-server#readme",
   "dependencies": {
-    "correios-brasil": "^2.0.4"
+    "correios-brasil": "^2.0.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
