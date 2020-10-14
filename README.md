@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Other repositories:
 
-- [Mobile](https://github.com/arthrc/packlyNew)
+- [Mobile](https://github.com/arthrc/packly)
