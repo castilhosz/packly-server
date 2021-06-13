@@ -16,7 +16,7 @@ This project is part of my personal portfolio. I'll be happy if you could provid
 
 Email-me: arthurcastilhos@gmail.com
 
-Connect with me at [LinkedIn](https://linkedin.com/in/arthrc)
+Connect with me at [LinkedIn](https://linkedin.com/in/artcastilhos)
 
 Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
 
@@ -49,14 +49,14 @@ You can send how many PR's do you want, I'll be glad to analyse and accept them!
 
 Email-me: arthurcastilhos@gmail.com
 
-Connect with me at [LinkedIn](https://linkedin.com/in/arthrc)
+Connect with me at [LinkedIn](https://linkedin.com/in/artcastilhos)
 
 Thank You!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/arthrc/packly-server/license.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/artcastilhos/packly-server/license.md) file for details
 
 ## Other repositories:
 
-- [Mobile](https://github.com/arthrc/packly)
+- [Mobile](https://github.com/artcastilhos/packly)
